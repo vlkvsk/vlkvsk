@@ -4,7 +4,7 @@
 	<br><br>
 
  ```
-18 years old, fullstack developer, born in Ukraine.
+19 years old, fullstack developer, born in Ukraine.
 Completely self-taught, work experience of 2 years.
 Fluent in Ukrainian and russian.
 Also English at the level of reading and full understanding of documentation.
